@@ -8,5 +8,4 @@ Chuyển từ "World" từ cạnh trên xuống cạnh dưới.
 
 - Sử dụng Widget **Expanded**.
 
-**Expand** là Widget làm đẩy khoảng cách của 2 hoặc nhiều Widget con trong một
-Widget cha.
+**Expand** là Widget lấp đầy diện tích Widget con trong 1 Widget cha. Expand chỉ nhận duy nhất 1 Widget con.
